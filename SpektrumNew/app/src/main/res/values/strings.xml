@@ -1,0 +1,5 @@
+<resources>
+    <string name="job_order_list">Job Order List</string>
+    <string name="job_order_detail">Job Order Detail</string>
+
+</resources>
